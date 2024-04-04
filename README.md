@@ -35,8 +35,8 @@ List of public resources, documents, and tools for Osmosis. This Awesome repo is
 **Mainnet**
 - [Official Osmosis Developers](https://rpc.dev-osmosis.zone/) : `https://rpc.dev-osmosis.zone/` - Mainnet
 - [Chain Registry](https://github.com/cosmos/chain-registry) : `https://github.com/cosmos/chain-registry` - Mainnet
-- [All That Node by DSRV](https://www.allthatnode.com/osmosis.dsrv) : `https://www.allthatnode.com/osmosis.dsrv` - Mainnet / Mainnet Archive / Testnet with Faucet (LCD/REST, RPC, gRPC)
-- [DataHub](https://datahub.figment.io) : `https://datahub.figment.io` - Mainnet / Mainnet Archive (LCD/REST, RPC, gRPC)
+- [All That Node by DSRV](https://www.allthatnode.com/osmosis.dsrv) : `https://www.allthatnode.com/osmosis.dsrv` - Mainnet / Testnet with Faucet (LCD/REST, RPC, gRPC)
+- [DataHub](https://datahub.figment.io) : `https://datahub.figment.io` - Mainnet (LCD/REST, RPC, gRPC)
 - [Stake Systems](https://www.notion.so/Stake-Systems-LCD-RPC-gRPC-Instances-04a99a9a9aa14247a42944931eec7024) - LCD(REST)/RPC/gRPC
 
 ### Archive Nodes
